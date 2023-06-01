@@ -1,1 +1,2 @@
-This is my git practice file
+This is my git practice file.
+These are my changes to the file.
